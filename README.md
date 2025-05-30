@@ -3,12 +3,14 @@
 Proyecto final; Sistema urinario, obstrucción urinaria por hipertrofia prostática benigna (HPB)
 # MSF-Proyecto-final
 Proyecto final: Sistema urinario, obstrucción urinaria por hipertrofia prostática benigna (HPB)
-# Modelado de Sistemas Fisiológicos. Proyecto final: Sistema urinario [Perez22210425]
+# Modelado de Sistemas Fisiológicos. Proyecto final: Sistema urinario [Perez22210425-Acosta22210407]
 ## Autor
 
 Perez Castillo Natelie Jaqueline
 
-Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L22210425@tectijuana.edu.mx
+Acosta Berrelleza Kenia Celeste 
+
+Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L22210425@tectijuana.edu.mx-L22210407@tectijuana.edu.mx
 
 ## Objetivos general
 Diseñar un gemelo digital de un sistema fisiologico que permita identificar las diferencias entre
